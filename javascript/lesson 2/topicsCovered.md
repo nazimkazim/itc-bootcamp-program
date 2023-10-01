@@ -1,0 +1,16 @@
+- function declaration
+- function expression
+- calling a function
+- function parameters
+- calling a function with parameters
+- function with multiple parameters
+- return statement
+- combine a function with an if statement
+- arrow function
+- for loop
+- calling a function in a for loop
+- modulo operator
+- length property of a string
+- chatAt method of a string
+- replace method of a string
+- slice method of a string

@@ -1,0 +1,19 @@
+- alert function
+- console.log function
+- what is a variable
+- const vs let
+- how to assign a value to a variable
+- operators (addition, subtraction, multiplication, division, modulo)
+- increeasing and decreasing a variable
+- precedence of operators
+- boolean values
+- concatinating strings
+- string interpolation
+- typeof 
+- comparison operators
+- logical operators
+- if statements
+- else if statements
+- else statements
+- prompt function
+- truthy and falsy values

@@ -1,0 +1,20 @@
+- create dom element, using `document.createElement()`
+- add text to dom element, using `element.textContent`
+- access dom element, using `document.querySelector()`
+- add dom element to dom, using `element.appendChild()`
+- styling dom element, using `element.style`
+- setting attributes, using `element.setAttribute()`
+- adding classes, using `element.classList.add()`
+- creating arrays, using `[]`
+- accessing array items, using `array[index]`
+- adding items to array, using `array.push()`
+- removing item from array, using `array.pop()`
+- adding items to array, using `array.unshift()`
+- removing item from array, using `array.shift()`
+- finding index of item in array, using `array.indexOf()`
+- creating objects, using `{}`
+- accessing object properties, using `object.property`
+- accessing object properties, using `object['property']`
+- adding properties to object, using `object.property = value`
+- iterating over array, using `for` loop
+- iterating over array of objects, using `for` loop

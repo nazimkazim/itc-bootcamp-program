@@ -1,0 +1,102 @@
+body {
+  background-color: transparent;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: blue;
+  font-size: 24px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 700;
+}
+
+.colorful {
+  font-size: 100px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#h1 {
+  color: red;
+  font-size: 48px;
+}
+
+#h2 {
+  color: blanchedalmond;
+  font-size: 24px;
+}
+
+.header {
+  color: aqua;
+  text-align: center;
+}
+
+.list {
+  width: 300px;
+  height: 300px;
+  background-color: darkcyan;
+  border: 4px dashed black;
+  margin-left: 400px;
+  margin-right: 300px;
+  margin-top: 30px;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2a/Jonas_Vingegaard_%282022-07-20%3B_cropped2%29.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover
+  ;
+}
+
+.list-item {
+  list-style: none;
+  width: 100%;
+  height: 40px;
+  background-color: beige;
+  border: 1px solid blue;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.gallery {
+  position: relative;
+  width: 500px;
+  min-height: 500px;
+  border: 2px solid black;
+  background-color: cyan;
+  padding: 30px;
+  padding-bottom: 200px;
+}
+
+.photo {
+  width: 100%;
+}
+
+.button {
+  display: block;
+  width: 100px;
+  height: 50px;
+  border: 2px solid black;
+  margin-top: 30px;
+  padding: 6px;
+  margin-bottom: 30px;
+  border-radius: 16px;
+  font-size: 10px;
+  background-color: indianred;
+  color: white;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: blue;
+  transform: scale(1.2) rotate(45deg);
+  transition: all 0.3s ease-in-out;
+}
+
+.square {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  right: -100px;
+  bottom: 0;
+}
